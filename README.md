@@ -1,2 +1,2 @@
 # FS3N
-Repositório dedicado em compartilhar resoluções dos exercícios apresentados no curso
+Repositório dedicado em compartilhar resoluções de exercícios de Orientação a Objetos
